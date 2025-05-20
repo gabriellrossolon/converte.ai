@@ -1,12 +1,21 @@
-# React + Vite
+Converte.Ai 💱
+Converte.Ai é um conversor de moedas simples, rápido e moderno feito em React. Com ele, você pode converter valores entre as principais moedas do mundo, consumindo a API gratuita do Frankfurter.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias usadas 🛠️
+React — Biblioteca para construção da interface;
 
-Currently, two official plugins are available:
+Frankfurter API — API pública para taxas de câmbio atualizadas;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS — Para estilização rápida e responsiva;
 
-## Expanding the ESLint configuration
+Vercel — Hospedagem e deploy do projeto online.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Visual do Projeto 🎨
+![screencapture-converte-ai-gray-vercel-app-2025-05-20-16_23_44](https://github.com/user-attachments/assets/5a966a4a-2a51-45f6-9e78-1a110f7ee267)
+
+Acesse online 🚀
+Experimente o Converte.Ai no seu navegador, acessando:
+➡️ https://converte-ai-gray.vercel.app
+
+Sobre o Desenvolvedor 👨‍💻
+Gabriell Rossolon — Portfólio
