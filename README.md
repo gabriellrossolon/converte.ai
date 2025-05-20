@@ -1,4 +1,4 @@
-Converte.Ai 💱
+# Converte.Ai 💱
 Converte.Ai é um conversor de moedas simples, rápido e moderno feito em React. Com ele, você pode converter valores entre as principais moedas do mundo, consumindo a API gratuita do Frankfurter.
 
 Tecnologias usadas 🛠️
